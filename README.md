@@ -8,4 +8,4 @@ FSU-Data-Services
 ### 3. Make the plan available for reuse and adaptation
 
 ================
-::skull:: << obligatory emoji 
+::skull:: 
