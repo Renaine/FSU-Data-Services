@@ -1,19 +1,19 @@
-#Florida State University Libraries Data Services Strategic Plan
+#**Florida State University Libraries Data Services Strategic Plan**
 
-##Mission: <workshop mission statement in social sciences DSWG>
+##**Mission: <workshop mission statement in social sciences DSWG>**
 
-##Types of Data Services:
-###*	Data discovery and access
-###*	Data Acquisition
-###*	Data Analysis and Visualization
-###*	Research Data Management
+##**Types of Data Services**
+###•	Data discovery and access
+###•	Data Acquisition
+###•	Data Analysis and Visualization
+###•	Research Data Management
 
-##Phases of Implementation
-###*	Phase 1: Services that are currently being provided.
-###*	Phase 2: Services that could be launched within a calendar year. Indicates that the Libraries already has the resources or will have the resources to implement these services within one year.
-###*Phase 3: Long range. These services would be beneficial to the Libraries but current staff expertise and/or
+##**Phases of Implementation**
+###•	Phase 1: Services that are currently being provided.
+###•	Phase 2: Services that could be launched within a calendar year. Indicates that the Libraries already has the resources or will have the resources to implement these services within one year.
+###•Phase 3: Long range. These services would be beneficial to the Libraries but current staff expertise and/or
 
-##Phase 1: Current Services
+##**Phase 1: Current Services**
 ###Data Discovery and Access:
 ####•	Consultations on finding data sources for research.
 ####•	Workshops and instruction sessions related to finding and utilizing data sources by subject area. 
@@ -28,13 +28,13 @@
 ####•	Provide workshops on best practices in research data management.
 ####•	Provide consultations on creating data management plans as part of funding proposals. 
 
-##Phase 2: Anticipated Services 
+##Phase 2: **Anticipated Services** 
 ###Data Discovery and Access:
 ###Data Acquisition:
 ###Data Analysis and Visualization:
 ###Research Data Management:
 
-##Phase 3: Long Range
+##**Phase 3: Long Range**
 ###Data Discovery and Access:
 ###Data Acquisition:
 ###Data Analysis and Visualization:
